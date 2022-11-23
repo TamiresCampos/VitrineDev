@@ -6,17 +6,17 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Barbearia Alura**
 | :label: Tecnologias | html, css
-| :rocket: URL         | https://github.com/TamiresCampos/BarbeariaAlura
+| :rocket: URL         | https://github.com/TamiresCampos/BarbeariaAlura  
 
+****  
 
+## Página inicial da Barbearia Alura
+[![Página da Barbearia Alura](https://img.youtube.com/vi/vhdn9b3D4vE/0.jpg)](https://www.youtube.com/watch?v=vhdn9b3D4vE#vitrinedev)  
+*Obs.: Clique na imagem para ver a o vídeo da página em execução.*
 
-Página da Barbearia Alura, clique [aqui](https://youtu.be/vhdn9b3D4vE) para ver o projeto na íntegra.
+****
+### Detalhes do projeto
 
+Durante a execução desse projeto, fui apresentada ao html e css.  
+Aprendi a utilizar seus principais comandos, sempre buscando as melhores práticas.  
 
-
-
-(#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
