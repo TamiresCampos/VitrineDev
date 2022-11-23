@@ -1,16 +1,21 @@
-# Nome do meu projeto
+# Barbearia Alura
 
-Rápida descrição do objetivo de fazer esse projeto
+*Página web de uma barbearia fictícia criada durante o curso de HTML5 e CSS3 da formação iniciante em programação da Alura*
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Barbearia Alura**
+| :label: Tecnologias | html, css
+| :rocket: URL         | https://github.com/TamiresCampos/BarbeariaAlura
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+
+Página da Barbearia Alura, clique [aqui](https://youtu.be/vhdn9b3D4vE) para ver o projeto na íntegra.
+
+
+
+
+(#vitrinedev)
 
 ## Detalhes do projeto
 
