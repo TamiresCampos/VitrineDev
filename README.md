@@ -47,10 +47,27 @@ Projeto do primeiro curso de lógica de programação e introdução da linguage
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Jogo Pong**
-| :label: Tecnologias | JavaScript
+| :label: Tecnologias | JavaScript, html, css
 | :rocket: Repositório | https://github.com/TamiresCampos/Jogo-Pong  
 
 ****
 ## Execução do jogo pelo editor web p5.js
-![Pong](https://user-images.githubusercontent.com/86023712/203649653-f5e7799b-bbf2-4bf9-a285-26fe741124e6.gif#vitrinedev)
+![Pong](https://user-images.githubusercontent.com/86023712/203649653-f5e7799b-bbf2-4bf9-a285-26fe741124e6.gif#vitrinedev)  
+
+****  
+****  
+
+# Jogo Pong  
+*Jogo desenvolvido em JavaScript através do editor p5.js.  
+Projeto do segundo curso de lógica de programação e introdução ao javascript pela Alura.*  
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Jogo Freeway**
+| :label: Tecnologias | JavaScript, html, css
+| :rocket: Repositório | https://github.com/TamiresCampos/Jogo-Freeway  
+
+****
+## Execução do jogo pelo editor web p5.js
+![JogoFreeway](https://user-images.githubusercontent.com/86023712/203816042-bf3b2943-3861-4db0-94e4-70014072e83c.gif#vitrinedev)
 
