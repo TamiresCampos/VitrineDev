@@ -35,4 +35,22 @@ Aprendi a utilizar seus principais comandos, sempre buscando as melhores prátic
 **** 
 ## Página inicial da T.C. Formatações
 [![Página da Barbearia Alura](https://img.youtube.com/vi/59F-YGER3uM/0.jpg)](https://www.youtube.com/watch?v=59F-YGER3uM#vitrinedev)  
-*Obs.: Clique na imagem para ver o vídeo da página em execução.* :nerd_face:
+*Obs.: Clique na imagem para ver o vídeo da página em execução.* :nerd_face:  
+
+****  
+****  
+
+# Jogo Pong  
+*Jogo desenvolvido em JavaScript com o editor web p5.js.  
+Projeto do primeiro curso de lógica de programação e introdução da linguagem javascript pela Alura.*  
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Jogo Pong**
+| :label: Tecnologias | JavaScript
+| :rocket: Repositório | https://github.com/TamiresCampos/Jogo-Pong  
+
+****
+## Execução do jogo pelo editor web p5.js
+![Pong](https://user-images.githubusercontent.com/86023712/203649653-f5e7799b-bbf2-4bf9-a285-26fe741124e6.gif#vitrinedev)
+
